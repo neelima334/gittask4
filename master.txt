@@ -1,1 +1,1 @@
-"master.txt" 
+ "updated content of master.txt on private branch" 
